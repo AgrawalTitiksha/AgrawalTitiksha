@@ -1,3 +1,5 @@
+![Blue and White Gradient Profile Data Analyst LinkedIn Article Cover Image](https://github.com/AgrawalTitiksha/AgrawalTitiksha/assets/117917014/a003c954-4092-4875-95ad-78cf3414309d)
+
 ### Hello Everyone, I'm Titiksha👋
 <!--
 **AgrawalTitiksha/AgrawalTitiksha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
