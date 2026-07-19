@@ -20,7 +20,7 @@ I spend my day-to-day validating data pipelines (Informatica, Oracle SQL, Postma
 `Python` · `Oracle SQL` · `Informatica` · `Postman` · `Git` · `Jupyter` · `MySQL`
 
 ### 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/titikshaagrawal/) · agrawaltitiksha@example.com
+[LinkedIn](https://www.linkedin.com/in/titikshaagrawal/) · titiksha.n.agrawal@gmail.com
 
 ---
 
